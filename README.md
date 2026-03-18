@@ -6,14 +6,14 @@ This project demonstrates time-based logic, DOM manipulation, and responsive UI 
 ---
 
 ## 🚀 Live Demo
-
-🔗 https://your-netlify-link-here
+[
+🔗 https://your-netlify-link-here](https://unique-stop-watch.netlify.app/)
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-username/Stopwatch-App
+[🔗 https://github.com/your-username/Stopwatch-App](https://github.com/aayushgupta-4341/Stop-Watch.git)
 
 ---
 
